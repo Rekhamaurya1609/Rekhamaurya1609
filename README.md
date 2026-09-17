@@ -1,16 +1,70 @@
-## Hi there 👋
+# Hi 👋, I'm Rekha Maurya
 
-<!--
-**Rekhamaurya1609/Rekhamaurya1609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | MERN | Java | AI
 
-Here are some ideas to get you started:
+I'm a Full Stack Developer passionate about building scalable
+web applications and AI-powered solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- React.js
+- Next.js
+- Tailwind CSS
+- Redux
+
+### Backend
+- Node.js
+- Express.js
+- Python
+- FastAPI
+
+### Database
+- MongoDB
+- Redis
+
+### AI / GenAI
+- Generative AI
+- Agentic AI
+- RAG
+- LangChain
+- LangGraph
+- Vector Database
+- AI Agents
+
+### Programming
+- Java
+- JavaScript
+- TypeScript
+- Python
+- DSA
+
+### Tools & DevOps
+- Git
+- GitHub
+- Docker
+- Postman
+- Vercel
+- Render
+
+## 🚀 Projects
+
+### MentorHub
+MERN-based mentor booking platform with:
+- JWT Authentication
+- Razorpay Payment Integration
+- Zoom API
+- MVC Architecture
+
+### AI Project
+Next.js + TypeScript + FastAPI + Agentic AI based application.
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/rekha-maurya-4017662a3
+- GitHub: https://github.com/Rekhamaurya1609
+- Email: mauryarekha795@gmail.com
