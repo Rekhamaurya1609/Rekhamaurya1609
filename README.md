@@ -1,9 +1,8 @@
 # Hi 👋, I'm Rekha Maurya
 
-### Full Stack Developer | MERN | Java | AI
+### Full Stack Developer | MERN | Java | Agentic AI | Gen AI
 
-I'm a Full Stack Developer passionate about building scalable
-web applications and AI-powered solutions.
+👋 Hi, I'm Rekha Maurya — a Full Stack Developer skilled in MERN, Next.js, TypeScript, FastAPI, and Java. I build scalable web applications and am currently exploring Generative AI, Agentic AI, RAG, LangChain, and LangGraph. Passionate about problem-solving, system design, and building impactful software solutions. 🚀
 
 ## 🛠️ Tech Stack
 
